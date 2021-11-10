@@ -1,1 +1,1 @@
-# LearningOpenCV
+# Learning OpenCV
