@@ -12,6 +12,7 @@ The following topics that I have completed are:</br>
 2. Reading Images and Videos :heavy_check_mark:
 3. Resizing and Rescaling Images :heavy_check_mark:
 4. Drawing and Putting Texts :heavy_check_mark:
+5. Five Essential Functions in OpenCv :heavy_check_mark:
 
 
 
