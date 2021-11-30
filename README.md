@@ -15,6 +15,7 @@ The following topics that I have completed are:</br>
 5. Five Essential Functions in OpenCv :heavy_check_mark:
 6. Image Transformations :heavy_check_mark:
 7. Contour Detection :heavy_check_mark:
+8. Color Spaces :heavy_check_mark:
 
 
 
