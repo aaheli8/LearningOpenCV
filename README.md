@@ -7,7 +7,7 @@ The library has more than 2500 optimized algorithms, which includes a comprehens
 (Source: Wikipedia.org and opencv.org)</br>
 
 #### I started learning OpenCv from freecodecamp.org.</br>
-The following topics that I have completed are:</br>
+The following topics that I have completed are tick marked:</br>
 1. Installing OpenCv and Caer :heavy_check_mark:
 2. Reading Images and Videos :heavy_check_mark:
 3. Resizing and Rescaling Images :heavy_check_mark:
@@ -16,6 +16,16 @@ The following topics that I have completed are:</br>
 6. Image Transformations :heavy_check_mark:
 7. Contour Detection :heavy_check_mark:
 8. Color Spaces :heavy_check_mark:
+9. Color channels
+10. Blurring
+11. BITWISE operation
+12. Masking
+13. Histogram Computation
+14. Thresholding Images
+15. Edge Detection
+16. Face Detection with Haar Cascades
+17. Face Recognition 
+18. Deep Computer Vision
 
 
 
