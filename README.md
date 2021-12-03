@@ -23,7 +23,7 @@ The following topics that I have completed are check marked:</br>
 13. Histogram Computation
 14. Thresholding Images
 15. Edge Detection
-16. Face Detection with Haar Cascades
+16. Face Detection with Haar Cascades :heavy_check_mark:
 17. Face Recognition 
 18. Deep Computer Vision
 
